@@ -1,0 +1,29 @@
+div.elm_box {
+    width: 33em;
+    height: 330px;
+    border: 1px solid #cdd5e035;
+    border-radius: 20px;
+}
+
+div.section_1 {
+    border-bottom: 1px solid #cdd5e035;
+    padding: 12px 5px;
+    display: flex;
+    gap: 35px;
+    color: #4d5562;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+div.css-1wy0on6 {
+    display: none;
+}
+
+div.selected {
+    border: 1px solid #cdd5e035;
+    background-color: #4d5562;
+    color: #f9fafb;
+    padding: 10px 10px;
+    border-radius: 7px;
+    border: none;
+}
